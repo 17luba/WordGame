@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Interaction/Door
+  - Interaction/Switch
   layers:
   - Default
   - TransparentFX
